@@ -1,0 +1,12 @@
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\LibraryAppProject.exe
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\LibraryAppProject.dll
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\LibraryAppProject.deps.json
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\LibraryAppProject.runtimeconfig.json
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\LibraryAppProject.dll.config
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\LibraryAppProject.pdb
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\Portfolio\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

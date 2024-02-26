@@ -1,0 +1,17 @@
+Fonts used in this design:
+
+Font: Balsamiq Sans
+Author: Michael Angeles
+Url: https://fonts.google.com/specimen/Balsamiq+Sans
+
+Font: Mali
+Author: Cadson Demak
+Url: https://fonts.google.com/specimen/Mali
+
+Font: Domine
+Author: Impallari Type
+Url: https://fonts.google.com/specimen/Domine
+
+Font: Aclonica
+Author: Astigmatic
+Url: https://fonts.google.com/specimen/Aclonica

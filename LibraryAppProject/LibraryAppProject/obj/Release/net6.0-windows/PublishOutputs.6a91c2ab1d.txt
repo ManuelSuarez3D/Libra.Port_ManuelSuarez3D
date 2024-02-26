@@ -1,0 +1,12 @@
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\LibraryAppProject.exe
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\LibraryAppProject.dll
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\LibraryAppProject.deps.json
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\LibraryAppProject.runtimeconfig.json
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\LibraryAppProject.dll.config
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\LibraryAppProject.pdb
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\System.Data.SqlClient.dll
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\src\NBCC\2ndYear_Term_Fall\C#\DbProgramming\Project\DatabaseProject_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

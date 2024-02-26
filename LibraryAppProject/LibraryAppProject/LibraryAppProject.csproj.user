@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBrowseAuthors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBrowseGenres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMaintainAuthors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMaintainBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMaintainGenres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMdiParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
