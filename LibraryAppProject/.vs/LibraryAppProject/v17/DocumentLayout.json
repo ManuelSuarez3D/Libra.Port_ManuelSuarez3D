@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|c:\\src\\portfolio\\libraport_manuelsuarez\\libraryappproject\\libraryappproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|solutionrelative:libraryappproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|c:\\src\\portfolio\\libraport_manuelsuarez\\libraryappproject\\libraryappproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|solutionrelative:libraryappproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\libraryappproject\\libraryappproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|solutionrelative:libraryappproject\\libraryappproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|c:\\src\\portfolio\\libraport_manuelsuarez\\libraryappproject\\libraryappproject\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|solutionrelative:libraryappproject\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|c:\\src\\portfolio\\libraport_manuelsuarez\\libraryappproject\\libraryappproject\\frmmdiparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DE0A1D5-07AA-445D-B48E-FD17BB1627F6}|LibraryAppProject\\LibraryAppProject.csproj|solutionrelative:libraryappproject\\frmmdiparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmMdiParent.cs",
-              "DocumentMoniker": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\frmMdiParent.cs",
-              "RelativeDocumentMoniker": "LibraryAppProject\\frmMdiParent.cs",
-              "ToolTip": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\frmMdiParent.cs",
-              "RelativeToolTip": "LibraryAppProject\\frmMdiParent.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwMEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T20:08:36.107Z",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\App.config",
+              "RelativeDocumentMoniker": "LibraryAppProject\\App.config",
+              "ToolTip": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\App.config",
+              "RelativeToolTip": "LibraryAppProject\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-27T02:41:59.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmSplash.cs",
               "DocumentMoniker": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\frmSplash.cs",
               "RelativeDocumentMoniker": "LibraryAppProject\\frmSplash.cs",
               "ToolTip": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\frmSplash.cs",
               "RelativeToolTip": "LibraryAppProject\\frmSplash.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAkAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T19:18:20.033Z",
+              "WhenOpened": "2024-02-27T01:17:42.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryAppProject\\Program.cs",
-              "ToolTip": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\Program.cs",
-              "RelativeToolTip": "LibraryAppProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T19:15:12.091Z",
+              "DocumentIndex": 1,
+              "Title": "LibraryAppProject",
+              "DocumentMoniker": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\LibraryAppProject.csproj",
+              "RelativeDocumentMoniker": "LibraryAppProject\\LibraryAppProject.csproj",
+              "ToolTip": "C:\\src\\Portfolio\\LibraPort_ManuelSuarez\\LibraryAppProject\\LibraryAppProject\\LibraryAppProject.csproj",
+              "RelativeToolTip": "LibraryAppProject\\LibraryAppProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T01:07:23.173Z",
               "EditorCaption": ""
             }
           ]

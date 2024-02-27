@@ -94,6 +94,7 @@ C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\LibraryAppProject.AssemblyInfoInputs.cache
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\LibraryAppProject.AssemblyInfo.cs
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\LibraryAppProject.csproj.CoreCompileInputs.cache
+C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\LibraryAppProject.sourcelink.json
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\LibraryA.F961AF1C.Up2Date
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\LibraryAppProject.dll
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Debug\net6.0-windows\refint\LibraryAppProject.dll

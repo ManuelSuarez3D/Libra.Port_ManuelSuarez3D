@@ -1,4 +1,6 @@
 ﻿
+using System.Reflection;
+
 namespace LibraryAppProject
 {
     public partial class frmSplash : Form
@@ -13,7 +15,8 @@ namespace LibraryAppProject
         /// </summary>
         private void frmSplash_Load(object sender, EventArgs e)
         {
-            lblAppVersion.Text = Application.ProductVersion;
+            Version version = Assembly.GetExecutingAssembly().GetName().Version;
+            lblAppVersion.Text = version.ToString(4);
         }
 
         /// <summary>

@@ -142,7 +142,4 @@ C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Release\net6.0-windows\LibraryAppProject.pdb
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Release\net6.0-windows\LibraryAppProject.genruntimeconfig.cache
 C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Release\net6.0-windows\ref\LibraryAppProject.dll
-C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\LibraryAppProject.dll.manifest
-C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\bin\Release\net6.0-windows\LibraryAppProject.application
-C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Release\net6.0-windows\LibraryAppProject.dll.manifest
-C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Release\net6.0-windows\LibraryAppProject.application
+C:\src\Portfolio\LibraPort_ManuelSuarez\LibraryAppProject\LibraryAppProject\obj\Release\net6.0-windows\LibraryAppProject.sourcelink.json
