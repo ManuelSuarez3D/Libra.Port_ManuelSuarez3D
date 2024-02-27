@@ -6,7 +6,7 @@ An app for public libraries, allowing them to manage books, authors and categori
 
 # Instructions
 - Locate the initial database script at Documentation/Scripts/SQLInitQuery.sql.
-- 
+
 # Features
 -	User Authentication
 -	Book Management
